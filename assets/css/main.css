@@ -220,6 +220,7 @@
 		text-transform: uppercase;
 	}
 
+
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
@@ -471,6 +472,10 @@
 			-ms-pointer-events: none;
 			pointer-events: none;
 			opacity: 0.35;
+		}
+
+		.round{
+			 border-radius: 30px;
 		}
 
 /* Form */
