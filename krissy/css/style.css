@@ -13,6 +13,9 @@ p{
     border: 5px solid lightpink;
     font-family: 'Pacifico', cursive;
 }
+div{
+  color: white;
+}
 #main .thumb > h2 {
     -moz-pointer-events: none;
     -webkit-pointer-events: none;
